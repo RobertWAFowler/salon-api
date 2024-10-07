@@ -1,4 +1,4 @@
-package com.zenhog.salonapi.restcontroller;
+package com.zenhog.salonapi.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
